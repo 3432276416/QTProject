@@ -1,7 +1,11 @@
 #pragma once
 
 #include <QMainWindow>
-
+#include <QStandardItem>
+#include <QStandardItemModel>
+#include <QTreeWidgetItem>
+#include <QFileSystemModel>
+#include <qfilesystemmodel.h>
 QT_BEGIN_NAMESPACE
 namespace Ui {
 class List;
@@ -15,6 +19,8 @@ class List : public QMainWindow
 public:
     List(QWidget *parent = nullptr);
     ~List();
+private:
+    QFileSystemModel *model;
 
 private slots:
     void on_file_btn_clicked();
