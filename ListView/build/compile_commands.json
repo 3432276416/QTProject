@@ -1,0 +1,26 @@
+[
+{
+  "directory": "E:/GitStore/QTProject/ListView/build",
+  "command": "D:\\Software\\QT\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/ListView.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\ListView.dir\\ListView_autogen\\mocs_compilation.cpp.obj -c E:\\GitStore\\QTProject\\ListView\\build\\ListView_autogen\\mocs_compilation.cpp",
+  "file": "E:/GitStore/QTProject/ListView/build/ListView_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/ListView.dir/ListView_autogen/mocs_compilation.cpp.obj"
+},
+{
+  "directory": "E:/GitStore/QTProject/ListView/build",
+  "command": "D:\\Software\\QT\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/ListView.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\ListView.dir\\main.cpp.obj -c E:\\GitStore\\QTProject\\ListView\\main.cpp",
+  "file": "E:/GitStore/QTProject/ListView/main.cpp",
+  "output": "CMakeFiles/ListView.dir/main.cpp.obj"
+},
+{
+  "directory": "E:/GitStore/QTProject/ListView/build",
+  "command": "D:\\Software\\QT\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/ListView.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\ListView.dir\\mainwindow.cpp.obj -c E:\\GitStore\\QTProject\\ListView\\mainwindow.cpp",
+  "file": "E:/GitStore/QTProject/ListView/mainwindow.cpp",
+  "output": "CMakeFiles/ListView.dir/mainwindow.cpp.obj"
+},
+{
+  "directory": "E:/GitStore/QTProject/ListView/build",
+  "command": "D:\\Software\\QT\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/ListView.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\ListView.dir\\ListView_autogen\\EWIEGA46WW\\qrc_image.cpp.obj -c E:\\GitStore\\QTProject\\ListView\\build\\ListView_autogen\\EWIEGA46WW\\qrc_image.cpp",
+  "file": "E:/GitStore/QTProject/ListView/build/ListView_autogen/EWIEGA46WW/qrc_image.cpp",
+  "output": "CMakeFiles/ListView.dir/ListView_autogen/EWIEGA46WW/qrc_image.cpp.obj"
+}
+]

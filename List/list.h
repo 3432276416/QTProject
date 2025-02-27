@@ -33,6 +33,10 @@ private slots:
 
     void on_parent_ckb_clicked();
 
+    void on_treeView_clicked(const QModelIndex &index);
+
+    void on_actionopen_triggered();
+
 private:
     Ui::List *ui;
 };

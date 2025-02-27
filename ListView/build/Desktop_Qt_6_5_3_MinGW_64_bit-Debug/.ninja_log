@@ -1,0 +1,12 @@
+# ninja log v6
+4	757	7621732708292358	ListView_autogen/timestamp	b15d98024861127c
+4	757	7621732708292358	ListView_autogen/mocs_compilation.cpp	b15d98024861127c
+4	757	7621732708292358	E:/GitStore/QTProject/ListView/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/ListView_autogen/timestamp	b15d98024861127c
+4	757	7621732708292358	E:/GitStore/QTProject/ListView/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/ListView_autogen/mocs_compilation.cpp	b15d98024861127c
+761	920	7621732710396893	ListView_autogen/EWIEGA46WW/qrc_image.cpp	cf7ccdde0a65d78f
+761	920	7621732710396893	E:/GitStore/QTProject/ListView/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/ListView_autogen/EWIEGA46WW/qrc_image.cpp	cf7ccdde0a65d78f
+955	1151	7621732711110210	CMakeFiles/ListView.dir/ListView_autogen/EWIEGA46WW/qrc_image.cpp.obj	d80b6d2685dbf786
+920	2409	7621732710753245	CMakeFiles/ListView.dir/ListView_autogen/mocs_compilation.cpp.obj	29c9044aa69c51db
+929	2493	7621732710845961	CMakeFiles/ListView.dir/main.cpp.obj	15fa99e8a6be23d8
+944	2751	7621732710989268	CMakeFiles/ListView.dir/mainwindow.cpp.obj	532ed35f77c68942
+2751	3052	7621732729071104	ListView.exe	fec2a4680ea0d9e7

@@ -26,6 +26,7 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
     qt_add_executable(List
         MANUAL_FINALIZATION
         ${PROJECT_SOURCES}
+        image.qrc
     )
 else()
     add_executable(List
