@@ -1,0 +1,3 @@
+D:\Software\cmake\bin\cmake.exe -E rm -f CMakeFiles\bluetooth_debugger.dir/objects.a
+D:\Software\QT\Tools\mingw1120_64\bin\ar.exe qc CMakeFiles\bluetooth_debugger.dir/objects.a @CMakeFiles\bluetooth_debugger.dir\objects1.rsp
+D:\Software\QT\Tools\mingw1120_64\bin\g++.exe -g -mwindows -Wl,--whole-archive CMakeFiles\bluetooth_debugger.dir/objects.a -Wl,--no-whole-archive -o bluetooth_debugger.exe -Wl,--out-implib,libbluetooth_debugger.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\bluetooth_debugger.dir\linkLibs.rsp

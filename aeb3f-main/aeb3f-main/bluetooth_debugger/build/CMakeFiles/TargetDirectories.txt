@@ -1,0 +1,9 @@
+E:/GitStore/QTProject/aeb3f-main/aeb3f-main/bluetooth_debugger/build/CMakeFiles/bluetooth_debugger.dir
+E:/GitStore/QTProject/aeb3f-main/aeb3f-main/bluetooth_debugger/build/CMakeFiles/edit_cache.dir
+E:/GitStore/QTProject/aeb3f-main/aeb3f-main/bluetooth_debugger/build/CMakeFiles/rebuild_cache.dir
+E:/GitStore/QTProject/aeb3f-main/aeb3f-main/bluetooth_debugger/build/CMakeFiles/list_install_components.dir
+E:/GitStore/QTProject/aeb3f-main/aeb3f-main/bluetooth_debugger/build/CMakeFiles/install.dir
+E:/GitStore/QTProject/aeb3f-main/aeb3f-main/bluetooth_debugger/build/CMakeFiles/install/local.dir
+E:/GitStore/QTProject/aeb3f-main/aeb3f-main/bluetooth_debugger/build/CMakeFiles/install/strip.dir
+E:/GitStore/QTProject/aeb3f-main/aeb3f-main/bluetooth_debugger/build/CMakeFiles/bluetooth_debugger_autogen_timestamp_deps.dir
+E:/GitStore/QTProject/aeb3f-main/aeb3f-main/bluetooth_debugger/build/CMakeFiles/bluetooth_debugger_autogen.dir

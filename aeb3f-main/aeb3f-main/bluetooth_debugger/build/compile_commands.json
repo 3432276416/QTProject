@@ -1,0 +1,32 @@
+[
+{
+  "directory": "E:/GitStore/QTProject/aeb3f-main/aeb3f-main/bluetooth_debugger/build",
+  "command": "D:\\Software\\QT\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_BLUETOOTH_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/bluetooth_debugger.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\bluetooth_debugger.dir\\bluetooth_debugger_autogen\\mocs_compilation.cpp.obj -c E:\\GitStore\\QTProject\\aeb3f-main\\aeb3f-main\\bluetooth_debugger\\build\\bluetooth_debugger_autogen\\mocs_compilation.cpp",
+  "file": "E:/GitStore/QTProject/aeb3f-main/aeb3f-main/bluetooth_debugger/build/bluetooth_debugger_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/bluetooth_debugger.dir/bluetooth_debugger_autogen/mocs_compilation.cpp.obj"
+},
+{
+  "directory": "E:/GitStore/QTProject/aeb3f-main/aeb3f-main/bluetooth_debugger/build",
+  "command": "D:\\Software\\QT\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_BLUETOOTH_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/bluetooth_debugger.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\bluetooth_debugger.dir\\main.cpp.obj -c E:\\GitStore\\QTProject\\aeb3f-main\\aeb3f-main\\bluetooth_debugger\\main.cpp",
+  "file": "E:/GitStore/QTProject/aeb3f-main/aeb3f-main/bluetooth_debugger/main.cpp",
+  "output": "CMakeFiles/bluetooth_debugger.dir/main.cpp.obj"
+},
+{
+  "directory": "E:/GitStore/QTProject/aeb3f-main/aeb3f-main/bluetooth_debugger/build",
+  "command": "D:\\Software\\QT\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_BLUETOOTH_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/bluetooth_debugger.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\bluetooth_debugger.dir\\bluetoothdebugger.cpp.obj -c E:\\GitStore\\QTProject\\aeb3f-main\\aeb3f-main\\bluetooth_debugger\\bluetoothdebugger.cpp",
+  "file": "E:/GitStore/QTProject/aeb3f-main/aeb3f-main/bluetooth_debugger/bluetoothdebugger.cpp",
+  "output": "CMakeFiles/bluetooth_debugger.dir/bluetoothdebugger.cpp.obj"
+},
+{
+  "directory": "E:/GitStore/QTProject/aeb3f-main/aeb3f-main/bluetooth_debugger/build",
+  "command": "D:\\Software\\QT\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_BLUETOOTH_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/bluetooth_debugger.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\bluetooth_debugger.dir\\bluetoothconnect.cpp.obj -c E:\\GitStore\\QTProject\\aeb3f-main\\aeb3f-main\\bluetooth_debugger\\bluetoothconnect.cpp",
+  "file": "E:/GitStore/QTProject/aeb3f-main/aeb3f-main/bluetooth_debugger/bluetoothconnect.cpp",
+  "output": "CMakeFiles/bluetooth_debugger.dir/bluetoothconnect.cpp.obj"
+},
+{
+  "directory": "E:/GitStore/QTProject/aeb3f-main/aeb3f-main/bluetooth_debugger/build",
+  "command": "D:\\Software\\QT\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_BLUETOOTH_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/bluetooth_debugger.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\bluetooth_debugger.dir\\bluetoothdevicecell.cpp.obj -c E:\\GitStore\\QTProject\\aeb3f-main\\aeb3f-main\\bluetooth_debugger\\bluetoothdevicecell.cpp",
+  "file": "E:/GitStore/QTProject/aeb3f-main/aeb3f-main/bluetooth_debugger/bluetoothdevicecell.cpp",
+  "output": "CMakeFiles/bluetooth_debugger.dir/bluetoothdevicecell.cpp.obj"
+}
+]

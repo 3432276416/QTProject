@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-010c49fbbb08327a4a46.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "bluetooth_debugger",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "bluetooth_debugger::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bluetooth_debugger-Debug-da4426e397043cb21535.json",
+					"name" : "bluetooth_debugger",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bluetooth_debugger_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bluetooth_debugger_autogen-Debug-b558df8f1c2c94fb402e.json",
+					"name" : "bluetooth_debugger_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bluetooth_debugger_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bluetooth_debugger_autogen_timestamp_deps-Debug-19b23dfb987e2d47349a.json",
+					"name" : "bluetooth_debugger_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/GitStore/QTProject/aeb3f-main/aeb3f-main/bluetooth_debugger/build",
+		"source" : "E:/GitStore/QTProject/aeb3f-main/aeb3f-main/bluetooth_debugger"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}
